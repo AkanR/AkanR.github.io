@@ -138,11 +138,11 @@
 
     .exp-desc
     {
-        font-size: 22px;
+        font-size: 25px;
         color: white;
         padding-left: 100px;
         font-family: 'Poppins', sans-serif;
-        font-weight: 600;
+        font-weight: 800;
         margin-bottom: 0px !important;
         letter-spacing: 1px;
     }
@@ -150,7 +150,7 @@
     {
         font-size: 16px;
         color: white;
-        padding-left: 123px;
+        padding-left: 100px;
         font-family: 'Poppins', sans-serif;
         font-weight: 800;
         
@@ -165,9 +165,10 @@
     {
         font-size: 16px;
         color: white;
-        padding-left: 103px;
+        padding-right: 40px;
         font-family: 'Poppins', sans-serif;
         font-weight: 500;
+        text-align: justify;
     }
 
     li
@@ -235,10 +236,22 @@
     {
         font-size: 16px;
         color: black;
-        padding-left: 103px;
+        padding-left: 77px;
         font-family: 'Poppins', sans-serif;
         font-weight: 500;
+        text-align: justify;
     }
+
+    .certi-text
+    {
+        font-size: 16px;
+        color: white;
+        padding-left: 211px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500;
+        text-align: justify;
+    }
+
     .dev-icons {
         padding-left: 0;
         list-style: none;
@@ -504,6 +517,15 @@
         color: black;
         font-family: 'Poppins', sans-serif;
         font-weight: 500;
+    }
+
+    .certi-text
+    {
+        font-size: 16px;
+        color: white;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500;
+        text-align: justify;
     }
 
     .dev-icons {
